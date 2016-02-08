@@ -4,7 +4,7 @@ join-maps
 `npm install join-maps`
 
 Concatenates multiple `Map`s into one `Map`.
-Duplicate values are overriden with each map.
+Duplicate values are overriden with each successive map.
 
 ```js
 import joinMaps from 'join-maps'
