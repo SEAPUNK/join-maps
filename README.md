@@ -1,6 +1,8 @@
 join-maps
 ===
 
+**Requires Node 4.x or newer**
+
 `npm install join-maps`
 
 Concatenates multiple `Map`s into one `Map`.
