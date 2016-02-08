@@ -1,6 +1,6 @@
 {
   "name": "join-maps",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Concatenates multiple Maps into one Map.",
   "main": "lib/index.js",
   "scripts": {
