@@ -1,6 +1,8 @@
 join-maps
 ===
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/SEAPUNK/join-maps.svg)](https://greenkeeper.io/)
+
 **Requires Node 4.x or newer**
 
 `npm install join-maps`
